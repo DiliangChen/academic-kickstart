@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Diliang Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Computer Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Case Western Reserve University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Internet of Things (IoT) in Healthcare and Safety Management
+- Wearable Systems for Ubiquitous Sensing
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Edge Computing
 
 education:
   courses:
